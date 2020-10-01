@@ -1,3 +1,5 @@
+## Financial Prediction Conv-LSTM model for portfolio, bypassing 2020 data to predict what it would have looked like
+
 ## covid19pandas tutorials mixed with geopandas and folium geo plotting
 
 links as follows:
