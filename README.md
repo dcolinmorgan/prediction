@@ -1,4 +1,7 @@
-## Financial Prediction Conv-LSTM model for portfolio, bypassing 2020 data to predict what it would have looked like
+## Financial Prediction Conv-LSTM model for portfolio
+try to bypass 2020 data to predict what it would have looked like
+[executable jupyter notebook via colab](https://github.com/dcolinmorgan/test/blob/master/finance_LSTM.ipynb)
+
 
 ## covid19pandas tutorials mixed with geopandas and folium geo plotting
 
